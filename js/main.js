@@ -4,6 +4,7 @@ const api = {
     default: "https://api.openweathermap.org/data/2.5/"
 }
 
+console.log("Hiii");
 const iconElement = document.querySelector(".weather-icon");
 const temperatureElement = document.querySelector(".temperature-value p");
 const descriptionElement = document.querySelector(".temperature-description p");
