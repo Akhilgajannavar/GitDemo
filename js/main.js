@@ -5,6 +5,7 @@ const api = {
 }
 
 console.log("Hiii");
+console.log("Hello");
 const iconElement = document.querySelector(".weather-icon");
 const temperatureElement = document.querySelector(".temperature-value p");
 const descriptionElement = document.querySelector(".temperature-description p");
